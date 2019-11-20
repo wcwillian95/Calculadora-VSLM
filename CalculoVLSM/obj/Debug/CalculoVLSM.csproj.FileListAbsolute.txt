@@ -1,0 +1,50 @@
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\bin\Debug\CalculoVLSM.exe.config
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\bin\Debug\CalculoVLSM.exe
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\bin\Debug\CalculoVLSM.pdb
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.csprojAssemblyReference.cache
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.Form1.resources
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.Properties.Resources.resources
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.GenerateResource.cache
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.CoreCompileInputs.cache
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.exe
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.pdb
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.csprojAssemblyReference.cache
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.Form1.resources
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.Properties.Resources.resources
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.GenerateResource.cache
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.CoreCompileInputs.cache
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.exe
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\obj\Debug\CalculoVLSM.pdb
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\bin\Debug\CalculoVLSM.exe.config
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\bin\Debug\CalculoVLSM.exe
+C:\Users\2019100575\Desktop\CalculoVLSM\CalculoVLSM\bin\Debug\CalculoVLSM.pdb
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\obj\Debug\CalculoVLSM.csprojAssemblyReference.cache
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\obj\Debug\CalculoVLSM.Form1.resources
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\obj\Debug\CalculoVLSM.Properties.Resources.resources
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.GenerateResource.cache
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.CoreCompileInputs.cache
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\obj\Debug\CalculoVLSM.exe
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\obj\Debug\CalculoVLSM.pdb
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\bin\Debug\CalculoVLSM.exe.config
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\bin\Debug\CalculoVLSM.exe
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\CalculoVLSM02\CalculoVLSM\bin\Debug\CalculoVLSM.pdb
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.csprojAssemblyReference.cache
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.Form1.resources
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.Properties.Resources.resources
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.GenerateResource.cache
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.CoreCompileInputs.cache
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.exe
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.pdb
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\bin\Debug\CalculoVLSM.exe.config
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\bin\Debug\CalculoVLSM.exe
+C:\Users\2019100575\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º Semestre 2019\2ºBIM\Redes - Bonilha\ultima versao\CalculoVLSM\bin\Debug\CalculoVLSM.pdb
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\bin\Debug\CalculoVLSM.exe.config
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\bin\Debug\CalculoVLSM.exe
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\bin\Debug\CalculoVLSM.pdb
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.csprojAssemblyReference.cache
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.Form1.resources
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.Properties.Resources.resources
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.GenerateResource.cache
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.csproj.CoreCompileInputs.cache
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.exe
+C:\Users\2019100575\Desktop\ultima versao\CalculoVLSM\obj\Debug\CalculoVLSM.pdb
